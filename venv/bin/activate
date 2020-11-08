@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/isuru/PycharmProjects/Auto-Tuning-with-Bayesian/venv"
+VIRTUAL_ENV="/home/nayananga/PycharmProjects/Auto-Tuning-with-Bayesian/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
