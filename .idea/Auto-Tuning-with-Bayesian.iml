@@ -2,6 +2,13 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Data/From_model" />
+      <excludeFolder url="file://$MODULE_DIR$/Data/Function_1" />
+      <excludeFolder url="file://$MODULE_DIR$/Data/Function_2" />
+      <excludeFolder url="file://$MODULE_DIR$/Data/Nearest" />
+      <excludeFolder url="file://$MODULE_DIR$/Data/Random" />
+      <excludeFolder url="file://$MODULE_DIR$/Data/Training_data" />
+      <excludeFolder url="file://$MODULE_DIR$/Data/Workload_data" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (Auto-Tuning-with-Bayesian)" jdkType="Python SDK" />
